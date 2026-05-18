@@ -62,6 +62,7 @@ To investigate Question 2 fully, the notebook is divided into targeted sub-quest
 
 <img width="1019" height="692" alt="Screenshot 2026-05-18 at 11 27 36" src="https://github.com/user-attachments/assets/7e1d27f4-f7d3-4d2f-8d83-c59802aefc56" />
 <img width="1058" height="695" alt="Screenshot 2026-05-18 at 11 27 49" src="https://github.com/user-attachments/assets/746eb426-e77f-41a3-8585-fdd55ae37040" />
+
 *Figure 2: Sankey Diagram mapping the structural trajectory of influence.*
 
 #### Analytical Findings
@@ -71,6 +72,7 @@ To investigate Question 2 fully, the notebook is divided into targeted sub-quest
 * **Professional Roles:** Categorical link color-coding demonstrates that these core impacted targets are highly versatile individual professionals (represented by black nodes) operating multi-roles as composers, performers, lyricists, and producers simultaneously.
 
 <img width="1240" height="837" alt="Screenshot 2026-05-18 at 11 30 10" src="https://github.com/user-attachments/assets/2afdd02c-1ce9-4658-af0a-8ae801d5791e" />
+
 *Figure 3: Radial Ego-Network anchoring central Oceanus Folk influence out to top artists.*
 
 ### Question 3 / Chord Diagram: Where does Oceanus Folk draw its inspiration?
@@ -82,13 +84,14 @@ To investigate Question 2 fully, the notebook is divided into targeted sub-quest
 
 <img width="1102" height="817" alt="Screenshot 2026-05-18 at 11 34 20" src="https://github.com/user-attachments/assets/b070d36c-6e5f-489a-93ce-81f1c15b2b75" />
 <img width="1043" height="905" alt="Screenshot 2026-05-18 at 11 34 39" src="https://github.com/user-attachments/assets/177dc4b2-f176-47a6-bb1d-6321e1cb6d53" />
+
 *Figure 4: Chord Diagram showing the consolidation and eventual fragmentation of Oceanus Folk's inspirations across eras.*
 
 #### Analytical Findings
 The chord visualization exposes a stark structural pattern: a massive reduction and fragmentation of creative inspiration following the *Sailor Shift* viral breakthrough.
 * **Legacy Era (1981–2022):** Pre-breakthrough, Oceanus Folk drew overwhelmingly from foundational, heavy concentrations of **Indie Folk (17 works)** and **Synthwave (15 works)**.
 * **Emergence Era:** During the breakthrough transition, the lineage shifted, drawing more narrowly from **Dream Pop (7 works)**, **Indie Folk (5 works)**, and **Doom Metal (4 works)**.
-* **Contemporary Era:** In the modern landscape, the dominant reliance on core genres completely vanishes. ![Uploading Screenshot 2026-05-18 at 11.33.58.png…]()
+* **Contemporary Era:** In the modern landscape, the dominant reliance on core genres completely vanishes. 
 Inspiration is highly decentralized and minimal, pulling only 1 or 2 works evenly across an expansive spread of genres, led lightly by *Desert Rock*, *Dream Pop*, and *Space Rock*.
 
 ## 3. Technical Implementation & Coordinated Interactions
