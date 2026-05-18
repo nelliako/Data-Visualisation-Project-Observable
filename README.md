@@ -1,3 +1,4 @@
+Link to Observable Notebook to access all interactive visualisations and see the code: https://observablehq.com/@computer-science-notts/sailor-shift-q2
 # Sailor Shift: Oceanus Folk Influence Analysis (Question 2)
 
 An interactive visual analytics system designed to explore and map the cultural, temporal, and structural influence of the musical entity **Oceanus Folk**. Built inside an Observable notebook environment using advanced data visualization paradigms (including Streamgraphs, Sankey diagrams, Chord diagrams, and Radial Ego-Networks), this project answers complex inquiries regarding how musical inspiration propagates over time across genres and individual artists.
