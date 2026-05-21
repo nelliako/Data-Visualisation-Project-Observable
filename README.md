@@ -1,3 +1,6 @@
+Link to Video Demo: 
+https://www.loom.com/share/c1a88b601227408ab8f5600a8cfa5f25 
+
 Link to Observable Notebook to access all interactive visualisations and see the code: https://observablehq.com/@computer-science-notts/sailor-shift-q2
 # Sailor Shift: Oceanus Folk Influence Analysis (Question 2)
 
